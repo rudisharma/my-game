@@ -1,0 +1,10 @@
+1.pc/npc: 2 players
+2.story: try to be last man standing 
+3.goal: being the last man standing 
+4.balance: making it get equally as hard for each person at the same level
+5.rules: maximum of 2 players at a time
+6.adaptive: gets harder as u move on
+7.chance vs skill: accidentally touch the obstacle and get out(chance), not touching the obstacles(skill)
+8.feedback: when u get hit you get a certain noise, when u get a certain amount of points u get a ping
+
+https://editor.p5js.org/whitehatjr/sketches/ePJrHCACM
